@@ -109,3 +109,5 @@ Unauthorized access. Endpoint chaos. Gateway control.
 ## 📡 Follow the Build
 
 More episodes + system expansions coming.
+
+![](https://sovereign-analytics.snapkittywest.workers.dev/canary/snapkitty-hacker-kits-episode-1-broken-ledger)
